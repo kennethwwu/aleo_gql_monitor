@@ -1,0 +1,16 @@
+{
+  "name": "aleo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "graphql": "^16.0.1",
+    "graphql-request": "^3.7.0"
+  }
+}
